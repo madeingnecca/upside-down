@@ -1,0 +1,1 @@
+javascript:(function(){document.body.style["transition"] = "all 12s ease-in";document.body.style["transform"] = "rotate(180deg)"}());
