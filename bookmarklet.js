@@ -1,1 +1,1 @@
-javascript:(function(){document.body.style["transition"] = "all 12s ease-in";document.body.style["transform"] = "rotate(180deg)"}());
+javascript:(function(){var fw = document.getElementById('st-ud');if(!fw){fw=document.createElement('div');fw.id='st-ud';document.body.appendChild(fw);fw.style["display"]="none"}fw.innerHTML="<iframe src=\"https://www.youtube.com/embed/-RcPZdihrp4?autoplay=1&rel=0\"></iframe>";document.body.style["transition"] = "all 55s ease";document.body.style["transform"] = "rotate(180deg)"}());
